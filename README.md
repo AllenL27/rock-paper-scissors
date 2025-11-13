@@ -2,7 +2,7 @@
 This Rock-Paper-Scissors game using Python was created collaboratively during a session of the **Computer Science Club** at CT State Gateway Community College.
 
 
-🎮 [Click here to play on Replit](https://replit.com/@allenlee27/PyHelper)
+🎮 [Click here to play on Replit](https://Allen-rock-paper-scissors.replit.app)
 
 Open the Replit link above and press **Run** to start the game in the console.
 
